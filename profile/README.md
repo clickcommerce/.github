@@ -12,7 +12,7 @@ Clickcommerce AI develops vertical-specific foundation models and AI agents opti
 
 ## 🚀 Live Demo
 
-Try our ONDC Voice Shopping Agent at [Clickcommerce.computer](https://Clickcommerce.computer)
+Try our  Voice Shopping Agent at [Clickcommerce.computer](https://Clickcommerce.computer)
 
 
 ## 🛠️ Available Models
