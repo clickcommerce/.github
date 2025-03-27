@@ -1,10 +1,10 @@
-# 🤖 Shoonya AI
+# 🤖  AI
 
 Building specialized foundation models for modern commerce - multilingual, localized, and domain-optimized.
 
 ## 🌟 Overview
 
-Shoonya AI develops vertical-specific foundation models and AI agents optimized for commerce use-cases. Our models are:
+Clickcommerce AI develops vertical-specific foundation models and AI agents optimized for commerce use-cases. Our models are:
 
 - **Multilingual**: Built from ground up to support multiple languages and mixed language queries
 - **Localized**: Deep understanding of regional commerce patterns and preferences
@@ -12,9 +12,8 @@ Shoonya AI develops vertical-specific foundation models and AI agents optimized 
 
 ## 🚀 Live Demo
 
-Try our ONDC Voice Shopping Agent at [shoonya.computer](https://shoonya.computer)
+Try our ONDC Voice Shopping Agent at [Clickcommerce.computer](https://Clickcommerce.computer)
 
-The demo showcases our multilingual commerce agent searching across India's Open Network for Digital Commerce (ONDC). Speak naturally in any Indian language to search for products from local sellers in your area.
 
 ## 🛠️ Available Models
 
@@ -30,25 +29,23 @@ The demo showcases our multilingual commerce agent searching across India's Open
 
 ## 🤝 Partners
 
-- [Kirana.pro](https://kirana.pro) - Quick Commerce Platform
-
 ## 📚 Documentation
 
-- [API Reference](https://docs.shoonya.computer/api) (Coming Soon)
-- [Developer Guide](https://docs.shoonya.computer/guide) (Coming Soon)
-- [Model Documentation](https://docs.shoonya.computer/models) (Coming Soon)
+- [API Reference](https://docs.Clickcommerce.computer/api) (Coming Soon)
+- [Developer Guide](https://docs.Clickcommerce.computer/guide) (Coming Soon)
+- [Model Documentation](https://docs.Clickcommerce.computer/models) (Coming Soon)
 
 ## 🔗 Links
 
-- [Website](https://shoonya.computer)
-- [Twitter](https://twitter.com/shoonya_ai)
-- [Blog](https://shoonya.computer) (Coming Soon)
+- [Website](https://Clickcommerce.computer)
+- [Twitter](https://twitter.com/Clickcommerce_ai)
+- [Blog](https://Clickcommerce.computer) (Coming Soon)
 
 ## 📬 Contact
 
-- Email: support@shoonya.computer
+- Email: support@Clickcommerce.computer
 - GitHub Issues: For bug reports and feature requests
 
 ## 📄 License
 
-Copyright © 2024-25 Shoonya LLC. All rights reserved.
+Copyright © 2024-25 Clickcommerce LLC. All rights reserved.
